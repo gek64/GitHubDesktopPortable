@@ -14,7 +14,8 @@ All downloads available in the [Releases](https://github.com/gek64/GitHubDesktop
 * The built-in updater does not work.
 
 ## System Requirements
-* Microsoft Windows 7 or later.
+* Microsoft Windows 7 or later. (https://github.com/gek64/GitHubDesktopPortable/releases/tag/v3.2.3)
+* Microsoft Windows 10 or later (v3.2.4~)
 * x64 Architecture CPU.
 
 ## Credits

@@ -2,7 +2,7 @@
 GitHub Desktop Portable is a portable version of the [GitHub Desktop](https://desktop.github.com/).
 
 ## Download
-All downloads available in the [Releases](https://github.com/gek64/GitHubDesktopPortable/releases)
+All downloads available in the [Releases](https://github.com/unix755/GitHubDesktopPortable/releases)
 
 ## Features
 * Run the full GitHub desktop application.
@@ -14,7 +14,7 @@ All downloads available in the [Releases](https://github.com/gek64/GitHubDesktop
 * The built-in updater does not work.
 
 ## System Requirements
-* Microsoft Windows 7 or later. (https://github.com/gek64/GitHubDesktopPortable/releases/tag/v3.2.3)
+* Microsoft Windows 7 or later. (https://github.com/unix755/GitHubDesktopPortable/releases/tag/v3.2.3)
 * Microsoft Windows 10 or later (v3.2.4~)
 * x64 Architecture CPU.
 
@@ -24,5 +24,5 @@ All downloads available in the [Releases](https://github.com/gek64/GitHubDesktop
 * [PortableApps.com Installer](https://portableapps.com/apps/development/portableapps.com_installer)
 
 ## License
-* Portable application code released under [the MIT license](https://github.com/gek64/GitHubDesktopPortable/raw/main/LICENSE).
+* Portable application code released under [the MIT license](https://github.com/unix755/GitHubDesktopPortable/raw/main/LICENSE).
 * The GitHub Desktop [EULA](https://desktop.github.com/eula/).
